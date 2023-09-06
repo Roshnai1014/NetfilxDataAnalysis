@@ -11,8 +11,11 @@ I used some python modules and libraries that are
 
 
 1.Pandas
+
 2.Numpy
+
 3.Plotly
+
 4. Matplotlib
 
 Distribution of Content:
@@ -35,9 +38,13 @@ Top 5 Directors:
 
 
 1.Rajiv Chilaka
+
 2.Jan Suter
+
 3.Raul Campos
+
 4. Marcus Raboy
+   
 5.Suhas Kadav
 
 
@@ -46,9 +53,13 @@ Top 5 Actors:
 
 
 1.Anupam Kher
+
 2.Rupa Bhimani
+
 3.Takahiro Sakurai
+
 4.Juile Tejwani
+
 5.Om Puri
 
 Most favourite Genre over ther year:
@@ -61,9 +72,13 @@ Top 5 Genre:
 
 
 1.International Movies
+
 2. Dramas
+   
 3.Comedies
+
 4.Action and Adventure
+
 5.Documentaries
 
 Analyzing Content on Netflix:
