@@ -16,7 +16,7 @@ I used some python modules and libraries that are
 
 3.Plotly
 
-4. Matplotlib
+4.Matplotlib
 
 Distribution of Content:
 
@@ -43,7 +43,7 @@ Top 5 Directors:
 
 3.Raul Campos
 
-4. Marcus Raboy
+4.Marcus Raboy
    
 5.Suhas Kadav
 
